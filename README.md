@@ -1,6 +1,6 @@
 # Hi there, I'm Matthew! 👋
 
-![Profile Banner](https://ibb.co/4mRZQ5s)
+![Profile Banner](https://i.ibb.co/8KgDhSz/383437793-329927189573335-7603402617605166825-n.jpg)
 
 ## About Me
 
