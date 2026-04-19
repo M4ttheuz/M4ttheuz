@@ -1,9 +1,15 @@
-# Hi there, I'm Matthew! 👋
+# Hi there, I'm Mateusz! 👋
 
 ![Profile Banner](https://i.ibb.co/8KgDhSz/383437793-329927189573335-7603402617605166825-n.jpg)
 
 ## About Me
 
-I'm currently 21 years old and I'm studying CS on University of Bielsko-Biała. I love cycling and sport activities overall!
+CS Student @ University of Bielsko-Biała
 
-- ⚡ Mainly learning C#.
+Building things with C# and exploring the .NET ecosystem. When I'm not debugging, I'm probably smashing PRs on my bike or out on the trails.
+
+🚀 Currently focused on: C# / .NET
+
+🚴‍♂️ Passionate about: Road & MTB cycling (UKKS Sokół Kęty)
+
+🎓 University of Bielsko-Biała
