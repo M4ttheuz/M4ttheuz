@@ -1,6 +1,6 @@
 # Hi there, I'm Mateusz! 👋
 
-![Profile Banner](https://ibb.co/HDvrC9Lc)
+![Profile Banner](https://i.ibb.co/GvwV9rfZ/97c6088d-60cd-412a-aab0-f60d7c696e3d.jpg)
 
 ## About Me
 
